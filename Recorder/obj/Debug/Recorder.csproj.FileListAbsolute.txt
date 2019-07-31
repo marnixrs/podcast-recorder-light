@@ -1,0 +1,9 @@
+C:\Users\marni\source\repos\Recorder\Recorder\bin\Debug\Recorder.exe.config
+C:\Users\marni\source\repos\Recorder\Recorder\bin\Debug\Recorder.exe
+C:\Users\marni\source\repos\Recorder\Recorder\bin\Debug\Recorder.pdb
+C:\Users\marni\source\repos\Recorder\Recorder\obj\Debug\Recorder.csprojAssemblyReference.cache
+C:\Users\marni\source\repos\Recorder\Recorder\obj\Debug\Recorder.Properties.Resources.resources
+C:\Users\marni\source\repos\Recorder\Recorder\obj\Debug\Recorder.csproj.GenerateResource.cache
+C:\Users\marni\source\repos\Recorder\Recorder\obj\Debug\Recorder.csproj.CoreCompileInputs.cache
+C:\Users\marni\source\repos\Recorder\Recorder\obj\Debug\Recorder.exe
+C:\Users\marni\source\repos\Recorder\Recorder\obj\Debug\Recorder.pdb
